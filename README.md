@@ -1,6 +1,6 @@
 # Simple Java
 
-You're able to create and upload files with the help  of the following link: (https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file).
+Create and upload files with the following link: (https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) and (https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file).
 
 
 With the help of the following link, you're able to get informed about how to create new files by using the command-line: https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line.
