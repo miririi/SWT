@@ -2,12 +2,8 @@ public class MathUtilities {
 
     public static void main(String[] args) {
         int zahl = 23;
-        int quadrat = quadriere(zahl);
-
-        System.out.println("Das Quadrat von " + zahl + " ist " + quadrat);
+        System.out.println("Gebe aus" + zahl );
     }
 
-    public static int quadriere(int zahl) {
-        return zahl * 2;
-    }
+ 
 }
